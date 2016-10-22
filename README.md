@@ -7,6 +7,7 @@
 * opus: encoders and decoders
 * Unrar4iOS-1.0.0
 * ZXingObjC-3.1.0
+
 ## Fuzzing Results
 * ArchiveALL: unrar, ios
 * kxmovie-ios: flv
